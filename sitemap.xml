@@ -15,5 +15,81 @@
   <priority>0.80</priority>
 </url>
 
+<url>
+	<loc>https://tavleentav.github.io/#header</loc>
+ <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/#about</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/#portfolio</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/#journal</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/#contact</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/images/portfolio/1.jpg</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/images/portfolio/2.jpg</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/images/portfolio/3.jpg</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/images/portfolio/4.jpg</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/images/portfolio/5.jpg</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
+		<url>
+			<loc>https://tavleentav.github.io/images/portfolio/6.jpg</loc>
+			 <lastmod>2020-04-22T19:28:14+00:00</lastmod>
+  <priority>0.80</priority>
+
+		</url>
+
 
 </urlset>
